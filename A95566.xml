@@ -1,0 +1,733 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of alterations strange, of various signes, heere are compos'd a few poetick lines heere you may finde, when you this book have read, the crowne tranform'd into the poets head : read well, be merry and wise / written by John Taylor.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95566</idno>
+            <idno type="STC">Wing T493A</idno>
+            <idno type="STC">ESTC R42369</idno>
+            <idno type="EEBO-CITATION">36273283</idno>
+            <idno type="OCLC">ocm 36273283</idno>
+            <idno type="VID">150316</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150316)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2241:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of alterations strange, of various signes, heere are compos'd a few poetick lines heere you may finde, when you this book have read, the crowne tranform'd into the poets head : read well, be merry and wise / written by John Taylor.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Guildhall (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150316:1" rendition="simple:additions"/>
+            <p>OF Alterations ſtrange, Of various <hi>Signes,</hi> Heere are Compos'd A few Poetick Lines:</p>
+            <lg>
+               <l>Heere you may finde, VVhe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> You this Book have read,</l>
+               <l>The <hi>Crowne</hi>'s transform'd, Into the <hi>Poets Head.</hi>
+               </l>
+            </lg>
+            <q>Read well: Be merry and wiſe.</q>
+            <p>Written by <hi>John Taylor.</hi>
+            </p>
+            <p>Printed at <hi>London,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:150316:2"/>
+            <pb n="1" facs="tcp:150316:2" rendition="simple:additions"/>
+            <lg>
+               <l>
+                  <hi>I</hi> Oft have ſeen a Saints head for a <hi>Signe,</hi>
+               </l>
+               <l>And many a Kings head too, then why not mine?</l>
+               <l>As every bare untruth is not a Lye,</l>
+               <l>So <hi>Signes</hi> are not the things they ſignifie.</l>
+               <l>All Lyes are Lyes, but Metaphors and Fictions</l>
+               <l>Are Morrals, not Truths reall contradictions.</l>
+               <l>Some lyes may run out of a Poets Standiſh,</l>
+               <l>(By Art or Nature, native, or outlandiſh)</l>
+               <l>But if he be a Poet right, his quill</l>
+               <l>No Blasphemy or Scandall will diſtill:</l>
+               <l>Nor can he lye, for with Similitudes,</l>
+               <l>With fancies and with fictions he alludes,</l>
+               <l>From things Terreſtriall to Coeleſtiall things,</l>
+               <l>From Cottages unto the Thrones of Kings.</l>
+               <l>True Poeſie doth not conſiſt in Rhime,</l>
+               <l>It ſcornes to be a ſlave to times or time:</l>
+               <l>A Poet right will ſuffer pinching want,</l>
+               <l>And to no greatneſſe be a Sycophant.</l>
+               <pb n="2" facs="tcp:150316:3"/>
+               <l> He'l weare his thread-bare Suite as thin as Serge,</l>
+               <l>And hates to come within the flatterers Verge:</l>
+               <l>
+                  <hi>Neceſſity</hi> doth quick invention lend him,</l>
+               <l>And Apetite (his page) doth ſtill attend him;</l>
+               <l>He rather will fare hard, with no ſoales booted,</l>
+               <l>Then Write baſe adulating lines ſplay-footed;</l>
+               <l>Such Roguiſh ſtuffe as wiſedome will deride,</l>
+               <l>Which none will read but wits who are ſquint-ey'd,</l>
+               <l>Whoſe <hi>Brains</hi> are <hi>Cork,</hi> whoſe <hi>Fancies</hi> all are <hi>Feather,</hi>
+               </l>
+               <l>Right <hi>Shuttlecocks,</hi> toſt here, there, hither, thither.</l>
+               <l>Theſe ſons of ignorance which praiſe advance</l>
+               <l>The Rhiming Raſcall brood of Ignorance.</l>
+               <l>Theſe are the Patrons of ſuch ſorded Wits,</l>
+               <l>Who vent their pilfred lines by girds and fits,</l>
+               <l>But as a Fidler's a Muſitians Ape,</l>
+               <l>And on the Art of Muſick makes a Rape,</l>
+               <l>So puffy Poetaſters doe beguile</l>
+               <l>Admiring Fooles, and ſteale a Poets ſtile:</l>
+               <l>Such Poets Spunges are, at meales and Feaſts,</l>
+               <l>And there they ſteale and pocket up ſtale Jeſts:</l>
+               <l>There every flaſh and excrement of wit</l>
+               <l>He catches, pickles up, makes uſe of it.</l>
+               <l>Old jeers and Buls, and clenches ſet him on</l>
+               <l>
+                  <hi>Parnaſſus</hi> top, there findes he <hi>Hellicon;</hi>
+               </l>
+               <l>There in the Well of <hi>Tempe</hi> he hath lap'd,</l>
+               <l>And with <hi>Enthuſiaſtick</hi> Rhaptures Rap'd,</l>
+               <pb n="3" facs="tcp:150316:3"/>
+               <l> That ſtraight he is a Poet for theſe times,</l>
+               <l>And beyond reaſon write moſt grievous Rhimes.</l>
+               <l>This ſcraping, thieving Knave can with compleatnes</l>
+               <l>Flatter, and fawne, and lick the tayle of greatnes.</l>
+               <l>Such are the ſwarmes of paper and ink-ſpillers,</l>
+               <l>The ſcorne of Poets, good wits Caterpillers.</l>
+               <l>To make a Poet doth all Art out-ſtrip;</l>
+               <l>Hee's th' maſter piece of Heavenly workmanſhip,</l>
+               <l>He is Angellically Intellected</l>
+               <l>With Rhaptures, and of God and man reſpected;</l>
+               <l>Adorn'd with nature ſo, that Art is ſtill</l>
+               <l>His ſervant, and a Subject to his quill.</l>
+               <l>Right <hi>Poets</hi> are <hi>Apollo's</hi> onely Heires,</l>
+               <l>And though wealth comes but ſeldome to their ſhares,</l>
+               <l>To each of them contentment is a bliſſe,</l>
+               <l>And to them all <hi>Their minde a Kingdome is.</hi>
+               </l>
+               <l>They are the <hi>Muſes</hi> Darlings, and their <hi>Layes</hi>
+               </l>
+               <l>To immortality can Mortals raiſe,</l>
+               <l>Whoſe ſugred <hi>Numbers,</hi> and Mellifluous Verſe</l>
+               <l>Doth ſeaſon Good Capacities, and pierce</l>
+               <l>Ingenious noble mindes with ſuch a touch,</l>
+               <l>That good Inventions with' are mended much.</l>
+               <l>He that doth underſtand a Verſe abhors</l>
+               <l>Such lines as are not curl'd with <hi>Metaphors,</hi>
+               </l>
+               <l>Adorn'd with flowing <hi>Wit,</hi> with <hi>Sence</hi> embelliſh'd,</l>
+               <l>(Which only is to ignorance diſrelliſh'd)</l>
+               <pb n="4" facs="tcp:150316:4"/>
+               <l> Lowſie <hi>Hexameters,</hi> and limping Rimes,</l>
+               <l>Are much in uſe theſe Loggerheaded times.</l>
+               <l>The world is Aged, Age is apt to dote,</l>
+               <l>And boaſters of the Spirit which talke by rote,</l>
+               <l>Their wits are crooked warp't, their wiſdome blind,</l>
+               <l>Their judgements with ſur'd ignorance warm lin'd.</l>
+               <l>Ballads are precious Poetry with them,</l>
+               <l>(The Cock reſpects the Corne, rejects the Jemme)</l>
+               <l>Their weather-cock opinions will prefer</l>
+               <l>Baſe ſcurrill ſcandalls of each Libeller,</l>
+               <l>Whilſt all the Poets who have ever writ</l>
+               <l>Such lines as ſcald the altitude of wit,</l>
+               <l>Are by ſuch dunghils hated, ſcorn'd, diſpis'd,</l>
+               <l>Of no eſteem at all or too low priz'd:</l>
+               <l>To ſuch I will not write a line of mine,</l>
+               <l>A Halter fits them better then a line.</l>
+               <l>Draffe.'s fit for Hogs, there's Rhiming Knaves enow;</l>
+               <l>
+                  <hi>Sir-reverence</hi> is a Pancake for a <hi>Sow.</hi>
+               </l>
+               <l>As <hi>Homer</hi> for his worth was <hi>Greece's</hi> Fame,</l>
+               <l>So for his want he was the <hi>Grecians</hi> ſhame;</l>
+               <l>His lines gave them fames immortallity,</l>
+               <l>And they let him live poore and beggerly;</l>
+               <l>No place would own his birth whilſt he had life,</l>
+               <l>But when he dy'd ſeven Cities were at ſtrife,</l>
+               <l>And like together by the eares to fall,</l>
+               <l>T'he honour'd with his bones and Funerall:</l>
+               <pb n="5" facs="tcp:150316:4"/>
+               <l> He was the Prince of Poets, and ſince he</l>
+               <l>A begger was, 'tis no great ſhame to me:</l>
+               <l>For I that am ſo ſhort of him in wit,</l>
+               <l>To be in wealth before him 'twere unfit.</l>
+               <l>My ſpirits <hi>Pegaſſus</hi> is Fancy, and</l>
+               <l>My Muſe doth Ride, and flee o're ſea and Land,</l>
+               <l>From every Coaſt and Clime, North, South, Weſt, Eaſt,</l>
+               <l>She brings me curious Cates to feed and feaſt:</l>
+               <l>Sometimes a Diſh of <hi>Sonnets</hi> ſweet ſhe brings;</l>
+               <l>Sometimes Heroick Acts of famous things:</l>
+               <l>
+                  <hi>Iambicks, Saphicks, Odes,</hi> and <hi>Epigrams,</hi>
+               </l>
+               <l>Tart <hi>Satires, Chronograms,</hi> and <hi>Anagrams,</hi>
+               </l>
+               <l>
+                  <hi>Epithalamiums, Epicediums, Cantoes,</hi>
+               </l>
+               <l>Harmonious <hi>Meaſures, Canzoes,</hi> and <hi>Corantoes,</hi>
+               </l>
+               <l>Sad <hi>Eligies,</hi> and merry <hi>Madrigals;</hi>
+               </l>
+               <l>Theſe are right Poets ſumptuous Feaſtivals.</l>
+               <l>All theſe and more are my contented cheare</l>
+               <l>Though Butchers fleſh and poultry ware be deare.</l>
+               <l>Theſe are to me Hen, Capon, Turkey, Quaile,</l>
+               <l>Duck, Hare, Gooſe, Mallar'd, Woodcock, Snipe, or Rayle,</l>
+               <l>My Pig, and Partridge, Widgeon, P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>geon, Pheaſant;</l>
+               <l>With theſe <hi>(Camelion-like)</hi> I live moſt pleaſant.</l>
+               <l>For full paunch'd Gormondizing Gluttony</l>
+               <l>With Poets hold no correspondency:</l>
+               <l>The ones delight's a moments luſhious taſte,</l>
+               <l>The other feeds on that ſhall ever laſt:</l>
+               <pb n="6" facs="tcp:150316:5"/>
+               <l> One, with a minutes joy his pallat pleaſeth:</l>
+               <l>The other takes repaſt that never ceaſeth.</l>
+               <l>The Emp'rour <hi>Maximinus</hi> us'd to eate</l>
+               <l>At every dinner forty pounds of meat,</l>
+               <l>With bread, fruit, Wine, which downe his throat did goe,</l>
+               <l>He eat no ſupper ſure that dined ſo.</l>
+               <l>The Emperour <hi>Geta</hi> had his Diſhes ſet</l>
+               <l>After the order of the Alphabet:</l>
+               <l>The Fleſh, fiſh, fowle, whoſe names with <hi>A</hi> begun,</l>
+               <l>Firſt into his Imperiall panch muſt run:</l>
+               <l>And ſo to <hi>B, C, D, E, F,</hi> and <hi>G,</hi>
+               </l>
+               <l>
+                  <hi>H, I, K, L, M, N,</hi> with <hi>O,</hi> and <hi>P.</hi>
+               </l>
+               <l>
+                  <hi>Q, R, S, T, V, W, X, Y, Z. Zed,</hi>
+               </l>
+               <l>Their mighty Majeſties thus dayly fed.</l>
+               <l>Such Monſters as theſe were <hi>Biberius Mero,</hi>
+               </l>
+               <l>And ſo was <hi>Romes</hi> great Tyrant, bloudy <hi>Nero:</hi>
+               </l>
+               <l>Such was <hi>Vitellius, Heliogabalus,</hi>
+               </l>
+               <l>Such was th' Aſſyrian <hi>Sardanap<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>s.</hi>
+               </l>
+               <l>Such would <hi>Nick Wood</hi> of <hi>Kent,</hi> and <hi>Marriot</hi> be,</l>
+               <l>If they had had ſuch wealth and dignity.</l>
+               <l>But none of theſe did ever ſtudy ſpend</l>
+               <l>To be a Poet, or a Poets friend:</l>
+               <l>If they to Learning any love had bore,</l>
+               <l>Their teeth had wrought much leſſe, their braines much more.</l>
+               <l>If ever Poet grac'd a Kingdomes Throne,</l>
+               <l>King <hi>James</hi> was Hee, the one, and onely one.</l>
+               <l>
+                  <hi>as a nameles honeſt Poet wrote of Poetry.</hi>
+               </l>
+               <pb n="7" facs="tcp:150316:5"/>
+               <l> 
+                  <hi>It is not dreſt in Rags of lowſie Rhimes,</hi>
+               </l>
+               <l>
+                  <hi>To pleaſe ſuch Gulls as underſtand it not;</hi>
+               </l>
+               <l>
+                  <hi>It ſoares a pitch above theſe Haggard Times,</hi>
+               </l>
+               <l>
+                  <hi>And ſlights the cenſure of each Cockbraind Sot.</hi>
+               </l>
+               <l>
+                  <hi>King</hi> James <hi>his Crowne was made of Maſſie gold,</hi>
+               </l>
+               <l>
+                  <hi>His Crown of Lawrell was more excellent:</hi>
+               </l>
+               <l>
+                  <hi>The one conſuming time will waſte and mould,</hi>
+               </l>
+               <l>
+                  <hi>The other everlaſting permanent.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus when old time hath waſted Tomb and Hearſe,</l>
+               <l>True Honour is preſerv'd by laſting Verſe.</l>
+               <l>Time, Tomb, and black oblivion will devoure</l>
+               <l>Their Honours that dares ſlight a Poets power.</l>
+               <l>'Twas not <hi>Achilles</hi> Sword, but <hi>Homers</hi> Pen</l>
+               <l>Made Worthy <hi>Hector</hi> chiefeſt Man of Men.</l>
+               <l>Who had e're heard of <hi>Alexanders</hi> fame,</l>
+               <l>If <hi>Quintus Curtius</hi> had not wrote the ſame?</l>
+               <l>A Poets love is lovely, but his hate</l>
+               <l>Can ſtrike great Kings beneath the foot of Fate.</l>
+               <l>The ſword cuts ſharp, kills Sires, and spares the ſons:</l>
+               <l>The Pens keene ſtroke a generation runs.</l>
+               <l>Two men, nam'd <hi>Hypponax</hi> and <hi>Bibullus,</hi>
+               </l>
+               <l>Poet and Painter, dwelt in <hi>Epheſus:</hi>
+               </l>
+               <l>The Poet had th'ill favouredſt face and feature,</l>
+               <l>That ſcarce the like had any two-leg'd creature;</l>
+               <pb n="8" facs="tcp:150316:6"/>
+               <l> And he ſuch ſharpe ſatyrick lines could write,</l>
+               <l>Which would both ſmart and rankle, where they bite.</l>
+               <l>The Painter made the Picture of the Poet</l>
+               <l>So ill ſhap'd, that all men that did but know it,</l>
+               <l>Did every one poore <hi>Hipponax</hi> much jeare</l>
+               <l>With ſcornes and ſcoffes, and many a flout and jeare.</l>
+               <l>The Poet on revenge did meditate,</l>
+               <l>And (from the Limbeck of's diſtilling pate)</l>
+               <l>He ('gainſt the Painter) wrote harſh lines, ſo furious,</l>
+               <l>That <hi>Buballus</hi> did hang himſelfe moſt curious.</l>
+               <l>And I do wiſh, all that are Poet haters</l>
+               <l>Were as that Painter, or his Imitaters.</l>
+               <l>So I that am a Poet, old forlorne,</l>
+               <l>(Lov'd by the learn'd, and ignorances ſcorne)</l>
+               <l>Worne from my waxing, to the loweſt weine,</l>
+               <l>Though time tread on me, I dare turne againe,</l>
+               <l>As doth a worme; but I perceive and ſee</l>
+               <l>My Muſe and Pen, both curb'd and muzled bee;</l>
+               <l>That (over us) there's <hi>Lincean</hi> watch,</l>
+               <l>That we (poore ſooles) dare neither bite or ſcratch;</l>
+               <l>Yet had I all free liberty, I hate</l>
+               <l>To meddle with Authority or State,</l>
+               <l>Or write a line that ſcandall may produce,</l>
+               <l>Or be the preſent Governments abuſe:</l>
+               <l>For States are men, no State ſo perfect is,</l>
+               <l>But ſome things (many things) are oft amiſſe.</l>
+               <pb n="9" facs="tcp:150316:6"/>
+               <l> For 'tis a maxime, all men have receiv'd</l>
+               <l>To be deceivers, and to be deceived.</l>
+               <l>I ſerv'd two Kings full five and forty yeare,</l>
+               <l>Am now growne old, bald, with ſome hoary haire:</l>
+               <l>Beſides, ſeven times <hi>Elizabeth</hi> I ſerved</l>
+               <l>At Sea, and from my Loyalty ne'r ſwerved:</l>
+               <l>Now Kingly Government expulſed is,</l>
+               <l>I muſt live in obedience under <hi>This:</hi>
+               </l>
+               <l>From thoſe two Kings I had ſuch meanes to live,</l>
+               <l>And (with thoſe means) a willing minde to give:</l>
+               <l>But now I am a Taker, and no Giver,</l>
+               <l>From which poore ſtate good <hi>Jeſus</hi> me deliver:</l>
+               <l>Ten yeares are paſt, ſince penny pay I had,</l>
+               <l>For my unlucky fortune is ſo bad,</l>
+               <l>That though I was a Yeoman of the Guard,</l>
+               <l>And that my fellowes ſome poore pay have ſhar'd:</l>
+               <l>Though (as a Waterman) much pay is due,</l>
+               <l>Yet not one groat will unto me accrew:</l>
+               <l>Though no man in a poorer ſtate then I,</l>
+               <l>Aged <hi>72.</hi> in extreame poverty;</l>
+               <l>Since firſt theſe wofull cruel wars began,</l>
+               <l>I ne'r bare armes, I was no martiall man:</l>
+               <l>I ne'r ſaw ſlaughtring ſwords drawn from their ſheaths,</l>
+               <l>Or mangled men deſtroyd with various deaths.</l>
+               <l>A paire of Crutches all my weapons were,</l>
+               <l>Wherewith I crawl'd in <hi>Oxford</hi> nigh three yeere:</l>
+               <l>For I was lame, and my Impoſthum'd leg</l>
+               <l>My Patent was, with priviledge to beg:</l>
+               <pb n="10" facs="tcp:150316:7"/>
+               <l> Thus Lameneſſe was my fault, my griefe, my blame,</l>
+               <l>And this did get me a Malignants name.</l>
+               <l>Petitions there hath been two hundred given,</l>
+               <l>To ſhew to what extream want we are driven,</l>
+               <l>Whereby few of us ſome reliefe have got,</l>
+               <l>But not one croſſe to my unlucky lot;</l>
+               <l>
+                  <hi>Neceſſity</hi> and I both married bee,</l>
+               <l>In love and fellowſhip we both agree.</l>
+               <l>Shee made m'a Merchant (now moſt Trades do faile)</l>
+               <l>A Trade in <hi>Ale,</hi> and ſell it by retaile:</l>
+               <l>My Signe was once the Crowne, but now it is</l>
+               <l>Chang'd by aſudden Metamorphoſis,</l>
+               <l>The Crowne was taken down, and in the ſtead</l>
+               <l>Is plac'd <hi>John Taylors,</hi> or the <hi>Poets</hi> Head.</l>
+               <l>Indeed theſe are the dayes of Transformation,</l>
+               <l>In ten years time hath fall'n ſome alteration.</l>
+               <l>For <hi>Charing-Croſſe,</hi> that had ſtood times and lives,</l>
+               <l>Is turn'd to Salt-ſellers, and hephts for Knives.</l>
+               <l>A Tavern where Saint <hi>Martins</hi> Picture was,</l>
+               <l>Is turn'd t'a <hi>Goat</hi> that ne're eat hay or graſſe.</l>
+               <l>The Salutation, or Annunciation,</l>
+               <l>Is made two Gallants with ſweet ſalutation;</l>
+               <l>Signes ſubject are to mutability,</l>
+               <l>And ſeldome are the things they ſignifie.</l>
+               <l>The Signes of Kings heads are not heads of Kings:</l>
+               <l>The Signes of Fountains are no watry Springs:</l>
+               <l>Blew Bores, Black Swans, and Maiden-heads are ſignes:</l>
+               <l>Grapes are but Signes, 'tis preſſing makes 'em Wines.</l>
+               <pb n="11" facs="tcp:150316:7"/>
+               <l> So is a Poet with oppreſſion preſt,</l>
+               <l>Want ſqueeſeth him, and then he writeth beſt.</l>
+               <l>The Painter hath his fancy, I did ſee,</l>
+               <l>And looking on two Loggerheads made three:</l>
+               <l>And I have ſeen Saints Heads for Signes hang'd up,</l>
+               <l>And Sir <hi>John Oldcaſtle</hi> with a quaffing Cup;</l>
+               <l>The Signes of many a Kings Head, many a Queene,</l>
+               <l>
+                  <hi>Popes, Biſhops, Arius, Taurus,</hi> I have ſeene</l>
+               <l>Their Heads ſet up for Signes; likewiſe I have</l>
+               <l>Seen Goats heads, with their beards like Townſmen Grave,</l>
+               <l>Rams heads, Boares heads, Bulls heads, all heads that are,</l>
+               <l>The Painters Art deſcribes them neare and far:</l>
+               <l>The <hi>Sun</hi> and <hi>Moon</hi> are Gods ſigns, but yet they
+<note place="margin">1. Gen.</note>
+               </l>
+               <l>Are Tavern Signes, where men waſte time away.</l>
+               <l>I Knew a Time (when times were not ſo evill)</l>
+               <l>There was a famous Taverne, call'd the Devill;</l>
+               <l>But 'twas a nick-name that the houſe did beare,</l>
+               <l>For I have found good entertainment there.</l>
+               <l>In great <hi>Apollo</hi> (no man ſeem'd to gull us)</l>
+               <l>My father <hi>Ben</hi> and I far'd like <hi>Lucullus:</hi>
+                  <note place="margin">M. John<g ref="char:EOLhyphen"/>ſon.</note>
+               </l>
+               <l>Thus Poetry, and painting in commixion</l>
+               <l>Do correſpond in fancy, and in fiction;</l>
+               <l>Both lik'd alike, alike diſliked both,</l>
+               <l>As various humours like to like or loath.</l>
+               <l>Of Poets I have ſomewhat ſayd before,</l>
+               <l>And now of Painters Ile ſay ſomewhat more.</l>
+               <l>The Painters cheated, for I am acquainted</l>
+               <l>With ſundry Signes that never yet were painted:</l>
+               <pb n="12" facs="tcp:150316:8"/>
+               <l> The crooked Billet who e're painted, who</l>
+               <l>The Gridir'ne Paint? who did the Horſe-ſhooe doe?</l>
+               <l>Or tell mee, honeſt Reader, if you can,</l>
+               <l>What man's ſo mad to paint a Frying-Pan?</l>
+               <l>A Painter ſeldome do<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h paint Whores, for they</l>
+               <l>Themſelves do with a Pox paint every day.</l>
+               <l>A Painter right is like a Poet true:</l>
+               <l>
+                  <hi>Ultra Maria</hi> is the chiefeſt Blew;</l>
+               <l>They in their Art are downrigh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, juſt, and plaine,</l>
+               <l>True honeſty they have dy'd deep in graine.</l>
+               <l>A painter did my Picture <hi>Gratis</hi> make,</l>
+               <l>And (for a Signe) I hang'd it for his ſake.</l>
+               <l>One <hi>De la Roche,</hi> here many yeares hath bin</l>
+               <l>Fam'd for Teeth-drawing out, and ſetting in:</l>
+               <l>He dwells cloſe by Fleet Bridge, and there I ſaw</l>
+               <l>His Picture hang'd, which was a Signe to draw</l>
+               <l>Such as were griev'd with tooth tormenting paine,</l>
+               <l>He drew, and in their place ſet new againe.</l>
+               <l>My Picture likewiſe hangs to draw, but not</l>
+               <l>Teeth, but <hi>Ale,</hi> nappy as e're came in Pot:</l>
+               <l>Now if my Pictures drawing can prevayle,</l>
+               <l>'Twill draw my friends to me, and I'le draw <hi>Ale.</hi>
+               </l>
+               <l>Two ſtrings are beter to a Bow then one,</l>
+               <l>And Poetry doth me ſmall good alone:</l>
+               <l>So Ale alone yields but ſmall meanes to me,</l>
+               <l>Except it have ſome spice of Poeſie.</l>
+               <l>Take of a ſpark of wit ſome pretty Cantle,</l>
+               <l>And toaſte it for your <hi>Ale,</hi> twill make it mantle.</l>
+               <pb n="13" facs="tcp:150316:8"/>
+               <l> For Poetry with <hi>Ale</hi> together Brew'd</l>
+               <l>Doth mount mens wits into an ALetitude.</l>
+               <l>Blinde Fortune is to Poetry unkind;</l>
+               <l>And Poets waſt their wits, and win but wind.</l>
+               <l>A Poet's like a Candle, that burns bright,</l>
+               <l>And ſpends himſelfe in giving others light.</l>
+               <l>But <hi>Ale</hi> and I together will agree,</l>
+               <l>I'le make the Barrell light, and <hi>Ale</hi> lights me.</l>
+               <l>And (to conclude) a Satyre I'le relate,</l>
+               <l>To ſhew how <hi>Ale</hi> will valour Elevate;</l>
+               <l>How it can make man vapour and extoll</l>
+               <l>Himſelfe, that from his tongue both arines and Arts will troll:</l>
+               <l>If he be in his <hi>Ale,</hi> no man comes neare him,</l>
+               <l>Provided you'l believe him when you heare him,</l>
+               <l>His Travels then will mighty volumes fill,</l>
+               <l>Beyond our famous Sir <hi>John Mandevill.</hi>
+               </l>
+               <l>And to his reputation 'twere a blot,</l>
+               <l>To put him in the rank of <hi>Don Quixot.</hi>
+               </l>
+               <l>He paſt the <hi>Zones, Phrygia,</hi> and <hi>Torrida,</hi>
+               </l>
+               <l>Surveigh'd the <hi>South</hi> World, call'd <hi>Incognita,</hi>
+               </l>
+               <l>And there he ſaw Great <hi>Gorgons</hi> empty, Scull</l>
+               <l>So bigge, foure Buſhels ſcarce could fill it full.</l>
+               <l>At <hi>Stamboloya</hi> (a most ſtately Port)</l>
+               <l>Where the Emperor great <hi>Robombo</hi> keepes his Court:</l>
+               <l>There in a <hi>Shamaranguah</hi> (which we call</l>
+               <l>A Chappell) was a building round and tall,</l>
+               <l>Where as the huge <hi>Gargantuas</hi> corps were laid,</l>
+               <l>The Tombe is a full Furlongs length 'tis ſaid;</l>
+               <pb n="14" facs="tcp:150316:9"/>
+               <l> Built of a Poliſht ſtone like Crimſon jet,</l>
+               <l>(Surpaſſing far the Tombe of <hi>Mahomet</hi>)</l>
+               <l>Enchac'd with precious Stones that dims the ſight,</l>
+               <l>That none can look on't, it doth ſhine ſo bright.</l>
+               <l>From thence he paſt the ſtreights of <hi>Magellan,</hi>
+               </l>
+               <l>And feaſted was by mighty <hi>Pouhatan,</hi>
+               </l>
+               <l>Where 'mongſt a world of dainties to be briefe,</l>
+               <l>A <hi>Phoenix</hi> ſtew'd in White-broath was the chiefe.</l>
+               <l>Tut, it will tire a man to heare him halfe,</l>
+               <l>He hath ſeen <hi>Miloes Bull,</hi> and <hi>Walthams</hi> Calfe;</l>
+               <l>The <hi>Monmouth</hi> Cap of famous <hi>Owen Glendor,</hi>
+               </l>
+               <l>And three eye tee of th' ancient witch of <hi>Endor:</hi>
+               </l>
+               <l>
+                  <hi>Iſchariots</hi> Lanthorne, at Saint <hi>Denniſis,</hi>
+               </l>
+               <l>Th' <hi>Epheſian Dian,</hi> at the <hi>Louvre</hi> is:</l>
+               <l>The Amphitheater that's at <hi>Uliſmos,</hi>
+               </l>
+               <l>The Pirramids of <hi>Aegypt,</hi> or the <hi>Iſthmos,</hi>
+               </l>
+               <l>That parts <hi>Utopia</hi> from faire <hi>Theſſaly,</hi>
+               </l>
+               <l>Or lofty <hi>Atlas</hi> that doth prop the sky.</l>
+               <l>If all be true he ſayes, we may him call</l>
+               <l>The God of Wars Lievetenant Generall:</l>
+               <l>No <hi>Turk</hi> or <hi>Tartar, Moor,</hi> or <hi>Mirmidon,</hi>
+               </l>
+               <l>Such valiant exployts hath under-gone:</l>
+               <l>He learn'd Wars Horn-book firſt, and did not ſtint,</l>
+               <l>But paſt his Grammer Rules was perfect in't;</l>
+               <l>He firſt began with trayning, Muſtring, Drilling,</l>
+               <l>Before he came to fighting, or to killing:</l>
+               <l>To March, to put his men in <hi>Files,</hi> and <hi>Ranks,</hi>
+               </l>
+               <l>To order a <hi>Batalia,</hi> wings, or <hi>Flanks,</hi>
+               </l>
+               <pb n="15" facs="tcp:150316:9"/>
+               <l> To lead the <hi>Vaunt-guard,</hi> or bring up the <hi>Reare,</hi>
+               </l>
+               <l>To be here, there, (and almoſt every where)</l>
+               <l>To guide and mannage men, and make them ſtoict,</l>
+               <l>Double your <hi>Ranks</hi> and <hi>Files,</hi> faces about:</l>
+               <l>He ſerv'd the <hi>Turk</hi> nine years a <hi>Renegado,</hi>
+               </l>
+               <l>Where often times he felt the <hi>Baſtinado;</hi>
+               </l>
+               <l>And though he wore a Coat of <hi>Bare-freezado,</hi>
+               </l>
+               <l>Yet there he learn'd the Art of a <hi>Soldado,</hi>
+               </l>
+               <l>T'affront an Enemy with a <hi>Braveado,</hi>
+               </l>
+               <l>To make a Battery, and to uſe <hi>Scalado;</hi>
+               </l>
+               <l>To uſe Petards, Engines, Wild-ſire, Granado,</l>
+               <l>T'intrap the foe by ſecret <hi>Ambuſcado;</hi>
+               </l>
+               <l>To Raiſe, Mount, Parrapet, or <hi>Camiſado;</hi>
+               </l>
+               <l>To make a ſtrength more ſtrong with <hi>Canvaſado;</hi>
+               </l>
+               <l>With his good ſword to uſe the <hi>Imbrocado;</hi>
+               </l>
+               <l>The Punto, the Reverſo, the <hi>Stockado:</hi>
+               </l>
+               <l>And for Land ſervice or the Sea <hi>Armado,</hi>
+               </l>
+               <l>He knows a roll of Match from <hi>Trinidado.</hi>
+               </l>
+               <l>His Muſick, Drums, Guns, Cannons, thundring rore,</l>
+               <l>As if the <hi>Welkin</hi> were in totters tore;</l>
+               <l>The Harquebuz and Muskets goe pit, pat,</l>
+               <l>Towers, Caſtles, Forts, and Citadels layd flat:</l>
+               <l>Mines, Countermines, Aſſaults, Repulſes, Sallies,</l>
+               <l>Whilſt Horſe and men ſlaine ſtrow the Fields and vallies,</l>
+               <l>Battalia's, Battries, Breaches, Armies, Armes,</l>
+               <l>Broyles, Garboyles, hot Encounters, fierce Alarms:</l>
+               <l>Fortifications, Camps, Redoubts, and Trenches,</l>
+               <l>Vamures, and Count<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>-mures, Walls, Sconces, Fences;</l>
+               <pb n="16" facs="tcp:150316:10"/>
+               <l> On-ſets and On-ſlaughts he hath been upon,</l>
+               <l>He blew up <hi>Tauris,</hi> conquer'd <hi>Babylon:</hi>
+               </l>
+               <l>He ſtood perdue beneath the frozen <hi>Zone,</hi>
+               </l>
+               <l>Turn'd to a man of Ice, or Chriſtall Stone.</l>
+               <l>The ſame day <hi>Mars</hi> his Valour did inspire</l>
+               <l>And thaw'd him brave, with Sulphur, ſmoak, and fire.</l>
+               <l>He in the Battell ſeem'd a man all flame,</l>
+               <l>In ſmouldring Powder, he that day o'recame</l>
+               <l>The Tartar <hi>Chrim,</hi> and near to <hi>Samercand,</hi>
+               </l>
+               <l>He with <hi>Mackoughly Shaugh,</hi> fought hand to hand.</l>
+               <l>The Leaguers, and the Sieges he hath ſeen,</l>
+               <l>The dreadfull dangers where he oft hath been:</l>
+               <l>He hath daunc'd <hi>Antiques</hi> in a Crimſon Flood,</l>
+               <l>And ſwom <hi>Levoltaes</hi> in a ſea of blood:</l>
+               <l>In greateſt perrils he would bravely on,</l>
+               <l>His throat belch'd fog, and flames like <hi>Phlegeton.</hi>
+               </l>
+               <l>Thus <hi>Sallamander</hi> like, he oft hath been</l>
+               <l>In ſcorching flaſhes, and three winters in</l>
+               <l>An Icie coat, like Armour ſhining bright</l>
+               <l>He ſerv'd the <hi>Pole,</hi> againſt the <hi>Muſcovite.</hi>
+               </l>
+               <l>He hath laine down to ſleep a <hi>Man,</hi> in ſhow,</l>
+               <l>And roſe a <hi>Snow-ball,</hi> or a <hi>Ball</hi> of <hi>Snow.</hi>
+               </l>
+               <l>Like the <hi>Camelion,</hi> (not to food inclin'd)</l>
+               <l>He liv'd by ſucking the cold Northern wind:</l>
+               <l>Fam'd by the blaſt of <hi>Fame,</hi> that ſwiftly flyes,</l>
+               <l>Compounding and confounding truth and lyes.</l>
+               <l>He hath a Blade (if his report be true)</l>
+               <l>Wherewith he ſixteen desperate <hi>Corporals</hi> ſlew;</l>
+               <pb n="17" facs="tcp:150316:10"/>
+               <l> And eight <hi>Lieverenants</hi> he out-right hath kill'd,</l>
+               <l>Foure Valiant <hi>Serjants</hi> he hath ſlain in Field:</l>
+               <l>Two Noble <hi>Captains</hi> and one <hi>Generall,</hi>
+               </l>
+               <l>His fury, force perforce did force to fall.</l>
+               <l>Blades broke, and batter'd Hilts, he hath had more</l>
+               <l>Then any Caſtle can contain the ſtore;</l>
+               <l>He had a Rapier, ſharpe, pure <hi>Caſtilliano,</hi>
+               </l>
+               <l>With which he gor'd and kill'd a great <hi>Umbrano,</hi>
+               </l>
+               <l>For guided with an Arme and courage fierce,</l>
+               <l>It quite through double Cannon proofe will pierce.</l>
+               <l>He'le Guard himſelfe from any Bullets fall,</l>
+               <l>His Sword's his Racket, and the ſhot the Ball,</l>
+               <l>Which though it ſwiftly come, he's ſo quick-ey'd,</l>
+               <l>That with his <hi>Morglay</hi> he would turne't aſide:</l>
+               <l>With the ſame <hi>Bilbo,</hi> once he madly ſtrikes</l>
+               <l>And crop'd the tops off, from a Grove of Pikes:</l>
+               <l>Thus fighting oft in Winter, and in Summer,</l>
+               <l>He had more wounds then holes are in a Scummer.</l>
+               <l>A thouſand blows and bruiſes, knocks and cuts</l>
+               <l>He hath received; eight times ſhot through the guts.</l>
+               <l>He was in Leagure late before <hi>Breda,</hi>
+               </l>
+               <l>Aſſociate with the Marqueſſe <hi>Spinola:</hi>
+               </l>
+               <l>And being in a Boat upon the Water,</l>
+               <l>A Musket ſhot ran through his <hi>Piamater,</hi>
+               </l>
+               <l>It pierc'd his <hi>Perricranion,</hi> that his brain</l>
+               <l>Was taken out and waſh'd, put in again.</l>
+               <l>Yet all theſe wounds, and all his desperate matches,</l>
+               <l>He cals them petty hurts, or ſimple ſcratches:</l>
+               <pb n="18" facs="tcp:150316:11"/>
+               <l> He was ſo mewl'd once at <hi>Berghen ap Zone,</hi>
+               </l>
+               <l>Boyes call'd him <hi>Raw-head</hi> there, and <hi>Bloudy-bone.</hi>
+               </l>
+               <l>From thence he tooke his Journey into <hi>Flanders,</hi>
+               </l>
+               <l>And ſo to <hi>England,</hi> where he cants and maunders;</l>
+               <l>Where though hee be not now the man he was,</l>
+               <l>For an old beaten Souldier he may paſſe.</l>
+               <l>The fruits of <hi>Ale</hi> are unto Drunkards ſuch,</l>
+               <l>To make 'em ſweare and lye that drink too much:</l>
+               <l>But my <hi>Ale</hi> (being drank with mod eration)</l>
+               <l>Will quench thirſt, and make merry Recreation.</l>
+               <l>My Book and Signe were publiſh'd for two ends,</l>
+               <l>T' invite my honeſt civill, ſober Friends:</l>
+               <l>From ſuch as are not ſuch, I kindly pray,</l>
+               <l>Till I ſend for 'em, let 'em keep away</l>
+               <l>From <hi>Phoenix</hi> Alley, the Globe Taverne neare,</l>
+               <l>The middle of <hi>Long-Aker:</hi> I dwell there.</l>
+            </lg>
+            <closer>
+               <signed>JOHN TAYLOR, Poeta Aquatica.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150316:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
